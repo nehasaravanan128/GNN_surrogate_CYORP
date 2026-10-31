@@ -1,0 +1,8 @@
+{
+  "k_min": 0.001,
+  "k_range": 1.999,
+  "P_min": 2,
+  "P_range": 98,
+  "dd_min": 0.05,
+  "dd_range": 0.25
+}
